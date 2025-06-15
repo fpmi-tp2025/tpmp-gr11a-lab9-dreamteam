@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  FoodOrderApp
+
+  Created by Shvarsman on 18.05.25.
+  
+*/
+
+"Restaurants" = "Restaurants";
+"Select Dish" = "Select Dish";
+"Dish" = "Dish";
+"Quantity" = "Quantity";
+"Payment Method" = "Payment Method";
+"Payment" = "Payment";
+"Delivery Address" = "Delivery Address";
+"Additional Comments" = "Additional Comments";
+"Place Order" = "Place Order";
+"Order Food" = "Order Food";
+"User Profile" = "User Profile";
+"Profile" = "Profile";
+"Pizza Place" = "Pizza Place";
+"Sushi Bar" = "Sushi Bar";
+"Margherita Pizza" = "Margherita Pizza";
+"Classic cheese pizza" = "Classic cheese pizza";
+"Sushi Roll" = "Sushi Roll";
+"Fresh sushi with salmon" = "Fresh sushi with salmon";
+"Online" = "Online";
+"ERIP" = "ERIP";
+"Terminal" = "Terminal";
+"Cash" = "Cash";
+"Enter address" = "Enter address";
+"Details" = "Details";
+"Registration functionality is under construction." = "Registration functionality is under construction.";
+"Login" = "Login";
+"Register" = "Register";
+"Username" = "Username";
+"Password" = "Password";
+"Confirm Password" = "Confirm Password";
+"Don't have an account? Register" = "Don't have an account? Register";
+"Welcome" = "Welcome";
+"Logout" = "Logout";
+"Username cannot be empty" = "Username cannot be empty";
+"Password cannot be empty" = "Password cannot be empty";
+"Passwords do not match" = "Passwords do not match";
+"Failed to register" = "Failed to register";
+"No registered user found" = "No registered user found";
+"Invalid username or password" = "Invalid username or password";

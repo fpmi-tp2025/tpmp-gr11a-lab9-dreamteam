@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  FoodOrderApp
+
+  Created by Shvarsman on 18.05.25.
+  
+*/
+
+"Restaurants" = "Рестораны";
+"Select Dish" = "Выберите блюдо";
+"Dish" = "Блюдо";
+"Quantity" = "Количество";
+"Payment Method" = "Способ оплаты";
+"Payment" = "Оплата";
+"Delivery Address" = "Адрес доставки";
+"Additional Comments" = "Дополнительные комментарии";
+"Place Order" = "Разместить заказ";
+"Order Food" = "Заказ еды";
+"User Profile" = "Профиль пользователя";
+"Profile" = "Профиль";
+"Pizza Place" = "Пиццерия";
+"Sushi Bar" = "Суши-бар";
+"Margherita Pizza" = "Пицца Маргарита";
+"Classic cheese pizza" = "Классическая сырная пицца";
+"Sushi Roll" = "Ролл с суши";
+"Fresh sushi with salmon" = "Свежие суши с лососем";
+"Online" = "Онлайн";
+"ERIP" = "ЕРИП";
+"Terminal" = "Терминал";
+"Cash" = "Наличные";
+"Enter address" = "Введите адрес";
+"Details" = "Детали";
+"Login" = "Вход";
+"Register" = "Регистрация";
+"Username" = "Имя пользователя";
+"Password" = "Пароль";
+"Confirm Password" = "Подтвердите пароль";
+"Don't have an account? Register" = "Нет аккаунта? Зарегистрируйтесь";
+"Welcome" = "Добро пожаловать";
+"Logout" = "Выйти";
+"Username cannot be empty" = "Имя пользователя не может быть пустым";
+"Password cannot be empty" = "Пароль не может быть пустым";
+"Passwords do not match" = "Пароли не совпадают";
+"Failed to register" = "Ошибка регистрации";
+"No registered user found" = "Пользователь не найден";
+"Invalid username or password" = "Неверное имя пользователя или пароль";
+"Select a dish before placing order" = "Выберите блюдо перед оформлением заказа";
+"Select a restaurant before placing order" = "Выберите ресторан перед оформлением заказа";
+"Address is required" = "Укажите адрес доставки";
+"Order placed successfully" = "Заказ успешно размещён";
+"Failed to record order" = "Ошибка записи заказа";
+

@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  FoodOrderApp
+
+  Created by Shvarsman on 18.05.25.
+  
+*/
+
+"Restaurants" = "Restaurants";
+"Select Dish" = "Sélectionnez le plat";
+"Dish" = "Plat";
+"Quantity" = "Quantité";
+"Payment Method" = "Méthode de paiement";
+"Payment" = "Paiement";
+"Delivery Address" = "Adresse de livraison";
+"Additional Comments" = "Commentaires supplémentaires";
+"Place Order" = "Passer la commande";
+"Order Food" = "Commander de la nourriture";
+"User Profile" = "Profil utilisateur";
+"Profile" = "Profil";
+"Pizza Place" = "Pizzeria";
+"Sushi Bar" = "Bar à sushi";
+"Margherita Pizza" = "Pizza Margherita";
+"Classic cheese pizza" = "Pizza au fromage classique";
+"Sushi Roll" = "Rouleau de sushi";
+"Fresh sushi with salmon" = "Sushi frais au saumon";
+"Online" = "En ligne";
+"ERIP" = "ERIP";
+"Terminal" = "Terminal";
+"Cash" = "Espèces";
+"Enter address" = "Entrer l'adresse";
+"Details" = "Détails";
+"Registration functionality is under construction." = "La fonctionnalité d'inscription est en cours de construction.";
+"Login" = "Connexion";
+"Register" = "Inscription";
+"Username" = "Nom d'utilisateur";
+"Password" = "Mot de passe";
+"Confirm Password" = "Confirmer le mot de passe";
+"Don't have an account? Register" = "Pas de compte ? Inscrivez-vous";
+"Welcome" = "Bienvenue";
+"Logout" = "Déconnexion";
+"Username cannot be empty" = "Le nom d'utilisateur ne peut pas être vide";
+"Password cannot be empty" = "Le mot de passe ne peut pas être vide";
+"Passwords do not match" = "Les mots de passe ne correspondent pas";
+"Failed to register" = "Échec de l'inscription";
+"No registered user found" = "Aucun utilisateur inscrit trouvé";
+"Invalid username or password" = "Nom d'utilisateur ou mot de passe invalide";
