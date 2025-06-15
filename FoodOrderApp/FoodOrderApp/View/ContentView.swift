@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  FoodOrderApp
 //
-//  Created by Shvarsman on 18.05.25.
+//  Created by lilgrom on 18.05.25.
 //
 
 import SwiftUI
